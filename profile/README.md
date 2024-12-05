@@ -2,7 +2,7 @@
 
 ## About Us
 
-Algorithmic Research Group is dedicated to pushing the boundaries of scientific exploration through safe and responsible AI. Our mission is to create advanced AI models and agents that accelerate scientific progress.
+We're dedicated to pushing the boundaries of scientific exploration through safe and responsible AI. Our mission is to create advanced AI models and agents that accelerate scientific progress.
 
 ## Featured Open Source Repositories
 
