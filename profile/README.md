@@ -39,15 +39,3 @@ AlgorithmicResearchGroup/arxiv_python_research_code contains over 4.13GB of sour
 - [ArXiv C++ Research_Code](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_cplusplus_research_code)
 ArtifactAI/arxiv_python_research_code contains over 10.6GB of source code files referenced strictly in ArXiv papers. The dataset serves as a curated dataset for Code LLMs.
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
