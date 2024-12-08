@@ -6,7 +6,7 @@ We're dedicated to pushing the boundaries of scientific exploration through safe
 
 ## Featured Open Source Repositories
 
-### ML Research Benchmark
+### ML Research Benchmark [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 
 - [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ML-Research-Agent) 
 A baseline agent for ML Research Benchmark. This agent provides a foundation for comparing and evaluating machine learning research and development tasks that agents can perform.
