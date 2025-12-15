@@ -1,9 +1,5 @@
 # Algorithmic Research Group
 
-## About Us
-
-We're dedicated to pushing the boundaries of scientific exploration through safe and responsible AI. Our mission is to create advanced AI models and agents that accelerate scientific progress.
-
 ## Featured Open Source Repositories
 
 ### ML Research Benchmark [![arXiv](https://img.shields.io/badge/arXiv-2410.22553-b31b1b.svg)](https://arxiv.org/abs/2410.22553)
