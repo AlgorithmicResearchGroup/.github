@@ -8,7 +8,7 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 
 ## Start Here
 
-- Want benchmark and evaluation repos? Start with [RE-Bench](https://github.com/AlgorithmicResearchGroup/RE-Bench), [deltaml-bench-public](https://github.com/AlgorithmicResearchGroup/deltaml-bench-public), [aria-public](https://github.com/AlgorithmicResearchGroup/aria-public), and [mlrb-evals-public](https://github.com/AlgorithmicResearchGroup/mlrb-evals-public).
+- Want benchmark and evaluation repos? Start with [deltaml-bench-public](https://github.com/AlgorithmicResearchGroup/deltaml-bench-public), [aria-public](https://github.com/AlgorithmicResearchGroup/aria-public), and [mlrb-evals-public](https://github.com/AlgorithmicResearchGroup/mlrb-evals-public).
 - Want infrastructure for running agents and inspecting runs? Start with [vivaria](https://github.com/AlgorithmicResearchGroup/vivaria) and [modular-public](https://github.com/AlgorithmicResearchGroup/modular-public).
 - Want ready-to-run agents and agent libraries? Start with [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ML-Research-Agent), [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent), and [Agent-States](https://github.com/AlgorithmicResearchGroup/Agent-States).
 - Want search and optimization experiments? Start with [nas-public](https://github.com/AlgorithmicResearchGroup/nas-public), [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public), and [otto-classification-challenge-agent](https://github.com/AlgorithmicResearchGroup/otto-classification-challenge-agent).
@@ -20,7 +20,6 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 | --- | --- |
 | [aria-public](https://github.com/AlgorithmicResearchGroup/aria-public) | Generates AI research benchmark datasets from Papers with Code exports and evaluates them with Inspect AI. |
 | [deltaml-bench-public](https://github.com/AlgorithmicResearchGroup/deltaml-bench-public) | Public monorepo for DeltaMLBench task families, Vivaria integration, multiple agent variants, and grading utilities. |
-| [RE-Bench](https://github.com/AlgorithmicResearchGroup/RE-Bench) | Task suite for evaluating frontier AI R&D capabilities of language model agents against human experts. |
 | [vivaria](https://github.com/AlgorithmicResearchGroup/vivaria) | Web application and CLI for running evaluations, launching task environments, and doing agent elicitation research. |
 | [mlrb-evals-public](https://github.com/AlgorithmicResearchGroup/mlrb-evals-public) | Evaluation CLI for ML Research Benchmark presets, native metrics, `lm-eval-harness`, and optional Lean workflows. |
 
