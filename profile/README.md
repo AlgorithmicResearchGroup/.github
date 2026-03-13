@@ -12,7 +12,6 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 - Want infrastructure for running agents and inspecting runs? Start with [vivaria](https://github.com/AlgorithmicResearchGroup/vivaria) and [modular-public](https://github.com/AlgorithmicResearchGroup/modular-public).
 - Want ready-to-run agents and agent libraries? Start with [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ML-Research-Agent), [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent), and [Agent-States](https://github.com/AlgorithmicResearchGroup/Agent-States).
 - Want search and optimization experiments? Start with [nas-public](https://github.com/AlgorithmicResearchGroup/nas-public), [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public), and [otto-classification-challenge-agent](https://github.com/AlgorithmicResearchGroup/otto-classification-challenge-agent).
-- Want the websites? See [website](https://github.com/AlgorithmicResearchGroup/website)
 
 ## Benchmarks And Evaluation
 
