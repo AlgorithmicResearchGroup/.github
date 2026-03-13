@@ -9,9 +9,20 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 ## Start Here
 
 - Want benchmark and evaluation repos? Start with [deltaml-bench-public](https://github.com/AlgorithmicResearchGroup/deltaml-bench-public), [aria-public](https://github.com/AlgorithmicResearchGroup/aria-public), and [mlrb-evals-public](https://github.com/AlgorithmicResearchGroup/mlrb-evals-public).
-- Want infrastructure for running agents and inspecting runs? Start with [vivaria](https://github.com/AlgorithmicResearchGroup/vivaria) and [modular-public](https://github.com/AlgorithmicResearchGroup/modular-public).
 - Want ready-to-run agents and agent libraries? Start with [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ML-Research-Agent), [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent), and [Agent-States](https://github.com/AlgorithmicResearchGroup/Agent-States).
 - Want search and optimization experiments? Start with [nas-public](https://github.com/AlgorithmicResearchGroup/nas-public), [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public), and [otto-classification-challenge-agent](https://github.com/AlgorithmicResearchGroup/otto-classification-challenge-agent).
+
+## Datasets On Hugging Face
+
+Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/AlgorithmicResearchGroup)
+
+| Dataset | What it is |
+| --- | --- |
+| [arxiv_research_code](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_research_code) | Large corpus of source code referenced in arXiv papers, released for research-code and code-model work. |
+| [arxiv_s2orc_parsed](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_s2orc_parsed) | Parsed arXiv subset of S2ORC with full paper text and extracted GitHub links. |
+| [arxiv_python_research_code](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_python_research_code) | Python-focused slice of research code linked from arXiv papers. |
+| [arxiv-math-instruct-50k](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv-math-instruct-50k) | Math-focused instruction-tuning dataset released on Hugging Face. |
+
 
 ## Benchmarks And Evaluation
 
@@ -19,7 +30,6 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 | --- | --- |
 | [aria-public](https://github.com/AlgorithmicResearchGroup/aria-public) | Generates AI research benchmark datasets from Papers with Code exports and evaluates them with Inspect AI. |
 | [deltaml-bench-public](https://github.com/AlgorithmicResearchGroup/deltaml-bench-public) | Public monorepo for DeltaMLBench task families, Vivaria integration, multiple agent variants, and grading utilities. |
-| [vivaria](https://github.com/AlgorithmicResearchGroup/vivaria) | Web application and CLI for running evaluations, launching task environments, and doing agent elicitation research. |
 | [mlrb-evals-public](https://github.com/AlgorithmicResearchGroup/mlrb-evals-public) | Evaluation CLI for ML Research Benchmark presets, native metrics, `lm-eval-harness`, and optional Lean workflows. |
 
 ## Agents And Research Tooling
@@ -29,7 +39,6 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 | [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ML-Research-Agent) | Baseline agent for ML Research Benchmark tasks, with tool integrations for coding, papers, GitHub access, and experiment workflows. |
 | [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent) | Research assistant that searches academic papers and generates implementation guides from the literature. |
 | [Agent-States](https://github.com/AlgorithmicResearchGroup/Agent-States) | Finite-state-machine library for AI agent state management, persistence, guarded transitions, and visualization. |
-| [modular-public](https://github.com/AlgorithmicResearchGroup/modular-public) | Modular agent scaffold built around prompter, generator, discriminator, actor, and toolkit modules. |
 | [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public) | Runs AIDE experiments locally or on a Ray cluster, with a CPU-friendly attention quickstart and optional GPU KernelBench runs. |
 
 ## Search And Experiment Repos
@@ -39,11 +48,4 @@ This GitHub organization is the open-source home for that work: agentic ML resea
 | [nas-public](https://github.com/AlgorithmicResearchGroup/nas-public) | Trains a Tiny Recursive Model to predict NAS-Bench-201 performance and uses that predictor for architecture search. |
 | [otto-classification-challenge-agent](https://github.com/AlgorithmicResearchGroup/otto-classification-challenge-agent) | Small Kaggle Otto classification challenge repo with a reproducible training and evaluation entry point. |
 
-## Sites And Supporting Repos
-
-| Repo | What it is |
-| --- | --- |
-| [website](https://github.com/AlgorithmicResearchGroup/website) | Main ARG website repo, built with Pelican and hosted on GitHub Pages. |
-| [personal-site](https://github.com/AlgorithmicResearchGroup/personal-site) | Personal site repository for Matthew Kenney. This repo is public but does not currently include a top-level README. |
-| [.github](https://github.com/AlgorithmicResearchGroup/.github) | Organization profile and shared GitHub metadata. |
 
