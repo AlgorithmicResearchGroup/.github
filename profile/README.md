@@ -21,7 +21,7 @@ Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/A
 | [arxiv_research_code](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_research_code) | Large corpus of source code referenced in arXiv papers, released for research-code and code-model work. |
 | [arxiv_s2orc_parsed](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_s2orc_parsed) | Parsed arXiv subset of S2ORC with full paper text and extracted GitHub links. |
 | [arxiv_python_research_code](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_python_research_code) | Python-focused slice of research code linked from arXiv papers. |
-| [arxiv-math-instruct-50k](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv-math-instruct-50k) | Math-focused instruction-tuning dataset released on Hugging Face. |
+| [s2orc-cs-enriched](https://huggingface.co/datasets/AlgorithmicResearchGroup/s2orc-cs-enriched) | A 44GB Computer Science subset of S2ORC with additional LLM-generated enrichment fields |
 
 
 ## Benchmarks And Evaluation
