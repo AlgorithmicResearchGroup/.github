@@ -40,6 +40,7 @@ Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/A
 | [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent) | Research assistant that searches academic papers and generates implementation guides from the literature. |
 | [Agent-States](https://github.com/AlgorithmicResearchGroup/agent-states-public) | Finite-state-machine library for AI agent state management, persistence, guarded transitions, and visualization. |
 | [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public) | Runs AIDE experiments locally or on a Ray cluster, with a CPU-friendly attention quickstart and optional GPU KernelBench runs. |
+| [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/epsilon) | Epsilon is infrastructure for structured multi-agent workloads |
 
 ## Search And Experiment Repos
 
