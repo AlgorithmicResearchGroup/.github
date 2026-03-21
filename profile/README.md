@@ -36,11 +36,12 @@ Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/A
 
 | Repo | What it is |
 | --- | --- |
+| [epsilon](https://github.com/AlgorithmicResearchGroup/epsilon) | Epsilon is infrastructure for structured multi-agent workloads |
+| [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public) | Runs AIDE experiments locally or on a Ray cluster, with a CPU-friendly attention quickstart and optional GPU KernelBench runs. |
 | [ML-Research-Agent](https://github.com/AlgorithmicResearchGroup/mlrb-agent-public) | Baseline agent for ML Research Benchmark tasks, with tool integrations for coding, papers, GitHub access, and experiment workflows. |
 | [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent) | Research assistant that searches academic papers and generates implementation guides from the literature. |
 | [Agent-States](https://github.com/AlgorithmicResearchGroup/agent-states-public) | Finite-state-machine library for AI agent state management, persistence, guarded transitions, and visualization. |
-| [aide-parallel-public](https://github.com/AlgorithmicResearchGroup/aide-parallel-public) | Runs AIDE experiments locally or on a Ray cluster, with a CPU-friendly attention quickstart and optional GPU KernelBench runs. |
-| [epsilon](https://github.com/AlgorithmicResearchGroup/epsilon) | Epsilon is infrastructure for structured multi-agent workloads |
+
 
 ## Search And Experiment Repos
 
