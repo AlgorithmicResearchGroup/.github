@@ -45,7 +45,7 @@ Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/A
 
 | Repo | What it is |
 | --- | --- |
-| [inspect-arg]([https://github.com/AlgorithmicResearchGroup/nas-public](https://github.com/AlgorithmicResearchGroup/inspect_arg)) | A lightweight remote eval service: Postgres-backed job queue, Dockerized API + worker pool, remote submission, and the existing Inspect web UI for viewing runs |
+| [inspect-arg](https://github.com/AlgorithmicResearchGroup/inspect_arg) | A lightweight remote eval service: Postgres-backed job queue, Dockerized API + worker pool, remote submission, and the existing Inspect web UI for viewing runs |
 | [epsilon](https://github.com/AlgorithmicResearchGroup/epsilon) | Epsilon is infrastructure for structured multi-agent workloads |
 
 
