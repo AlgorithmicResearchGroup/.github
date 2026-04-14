@@ -42,6 +42,12 @@ Full catalog: [huggingface.co/AlgorithmicResearchGroup](https://huggingface.co/A
 | [ScoutML-Research-Agent](https://github.com/AlgorithmicResearchGroup/ScoutML-Research-Agent) | Research assistant that searches academic papers and generates implementation guides from the literature. |
 | [Agent-States](https://github.com/AlgorithmicResearchGroup/agent-states-public) | Finite-state-machine library for AI agent state management, persistence, guarded transitions, and visualization. |
 
+## Infra
+
+| Repo | What it is |
+| --- | --- |
+| [inspect-arg]([https://github.com/AlgorithmicResearchGroup/nas-public](https://github.com/AlgorithmicResearchGroup/inspect_arg)) | A lightweight remote eval service: Postgres-backed job queue, Dockerized API + worker pool, remote submission, and the existing Inspect web UI for viewing runs |
+
 
 ## Search And Experiment Repos
 
